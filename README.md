@@ -1,3 +1,10 @@
+# github
+* 下記公式のセットアップ用repをCloneする
+https://github.com/chromaui/intro-storybook-react-template
+
+* npm install
+
+
 <p align="center">
   <a href="https://www.chromatic.com/">
     <img alt="Chromatic" src="https://avatars2.githubusercontent.com/u/24584319?s=200&v=4" width="60" />
