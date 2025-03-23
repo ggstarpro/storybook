@@ -3,6 +3,7 @@
 https://github.com/chromaui/intro-storybook-react-template
 
 * npm install
+* npm run storybook
 
 
 <p align="center">

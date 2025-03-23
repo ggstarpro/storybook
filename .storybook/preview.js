@@ -1,3 +1,6 @@
+import '../src/index.css';
+
+
 // preview画面の表示方法
 /** @type { import('@storybook/react').Preview } */
 const preview = {
