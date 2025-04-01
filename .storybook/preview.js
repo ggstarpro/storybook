@@ -12,6 +12,9 @@ const preview = {
         date: /Date$/,
       },
     },
+    docs: {
+      toc: true,
+    },
   },
 };
 
